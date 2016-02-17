@@ -359,7 +359,7 @@ msgstr "Fichier à vérifier et/ou à importer, binaire brut (non Base64)"
 #: code:addons/base_import/static/src/xml/import.xml:12
 #, python-format
 msgid "File:"
-msgstr ""
+msgstr "Fichier"
 
 #. module: base_import
 #. openerp-web
